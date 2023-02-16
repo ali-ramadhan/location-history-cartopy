@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Location history
+Records.json
+
+# Massive map images
+HYP_HR_SR_OB_DR/
